@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reflective Paper Reader"
+  short_description: "用反思性认知逆向拆解 AI 论文并审计证据链"
+  default_prompt: "用反思性认知精读这篇论文，区分原文证据、证据推断与逆向推演。"
